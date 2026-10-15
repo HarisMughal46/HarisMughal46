@@ -28,6 +28,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **Projexa** 🔒 *(private)* | AI-native project management platform: AI assistant, project analysis, approval-based AI actions and live dashboards. | FastAPI · PostgreSQL (row-level security) · Next.js |
+| **[Nebula AI Ops](https://github.com/HarisMughal46/Nebula-AI-Ops)** | Futuristic real-time system telemetry dashboard: live WebSocket metrics, anomaly detection and local-LLM health insights. | FastAPI · WebSockets · Next.js · Tailwind · Ollama |
 | **[Lumen](https://github.com/HarisMughal46/ai-chatbot)** | AI chat app with streaming responses, personas and multiple models. | Python · Streamlit · OpenRouter |
 | **[Pill Counter](https://github.com/HarisMughal46/pills_counter_hackthon)** | Pill counting with YOLO object detection. | Python · YOLO · Streamlit |
 | **[TaskFlow API](https://github.com/HarisMughal46/TaskFlow-API)** | REST API for projects and tasks with JWT auth, per-user data isolation, filtering/pagination, Swagger and 19 xUnit tests. | C# · ASP.NET Core (.NET 10) · EF Core · SQLite |
