@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Haris Mughal 👋</h1>
-<p align="center"><b>Full-stack developer building AI-native products.</b></p>
+<p align="center"><b>Full-stack developer building AI-native products. Also skilled in C#/.NET (ASP.NET Core) and QA (manual + Playwright automation).</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat&logoColor=white" alt="OpenRouter" />
+  <br/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/QA-Manual%20%2B%20Automation-F57C00?style=flat" alt="QA Manual + Automation" />
 </p>
 
 ---
@@ -26,6 +32,14 @@
 | **[Pill Counter](https://github.com/HarisMughal46/pills_counter_hackthon)** | Pill counting with YOLO object detection. | Python · YOLO · Streamlit |
 
 > Projexa's code is private. Happy to walk through it on request.
+
+---
+
+## 🧪 QA & Testing
+
+- **Manual testing:** test plans, test cases, bug reports, regression and UAT
+- **Automation:** Playwright end-to-end tests (Projexa runs 49 E2E tests)
+- **Unit and API testing:** pytest, Vitest and GitHub Actions CI
 
 ---
 
