@@ -31,6 +31,7 @@
 | **[Lumen](https://github.com/HarisMughal46/ai-chatbot)** | AI chat app with streaming responses, personas and multiple models. | Python · Streamlit · OpenRouter |
 | **[Pill Counter](https://github.com/HarisMughal46/pills_counter_hackthon)** | Pill counting with YOLO object detection. | Python · YOLO · Streamlit |
 | **[TaskFlow API](https://github.com/HarisMughal46/TaskFlow-API)** | REST API for projects and tasks with JWT auth, per-user data isolation, filtering/pagination, Swagger and 19 xUnit tests. | C# · ASP.NET Core (.NET 10) · EF Core · SQLite |
+| **[ShopEase QA Suite](https://github.com/HarisMughal46/ShopEase-QA-Suite)** | QA project for an e-commerce demo: 15 Playwright tests (Page Object Model), test plan, manual test cases, bug reports and traceability matrix. | Playwright · TypeScript · GitHub Actions |
 
 > Projexa's code is private. Happy to walk through it on request.
 
