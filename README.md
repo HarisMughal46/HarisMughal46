@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -27,6 +28,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **StandalonePOS** 🔒 *(private)* | Commercial offline POS and inventory system for Windows shops: barcode checkout with cash/card/split payments, returns, purchasing, multi-warehouse stock with weighted-average costing, blind cash count, shared held bills, thermal/A4 receipts and PDF, reports with grand totals, role-based access and offline signed licensing. 187 automated tests. | C# · ASP.NET Core (.NET 10) · EF Core · PostgreSQL · React · TypeScript · Tailwind |
 | **Projexa** 🔒 *(private)* | AI-native project management platform: AI assistant, project analysis, approval-based AI actions and live dashboards. | FastAPI · PostgreSQL (row-level security) · Next.js |
 | **[Nebula AI Ops](https://github.com/HarisMughal46/Nebula-AI-Ops)** | Futuristic real-time system telemetry dashboard: live WebSocket metrics, anomaly detection and local-LLM health insights. | FastAPI · WebSockets · Next.js · Tailwind · Ollama |
 | **[Lumen](https://github.com/HarisMughal46/ai-chatbot)** | AI chat app with streaming responses, personas and multiple models. | Python · Streamlit · OpenRouter |
@@ -35,14 +37,14 @@
 | **[ShopEase QA Suite](https://github.com/HarisMughal46/ShopEase-QA-Suite)** | QA project for an e-commerce demo: 15 Playwright tests (Page Object Model), test plan, manual test cases, bug reports and traceability matrix. | Playwright · TypeScript · GitHub Actions |
 | **[ExpenseTracker](https://github.com/HarisMughal46/ExpenseTracker)** | Expense tracking web app with a KPI dashboard (budget, trends, categories), filters, CSV export and 28 unit/integration/E2E tests. | C# · ASP.NET Core MVC · EF Core · Chart.js · Playwright |
 
-> Projexa's code is private. Happy to walk through it on request.
+> Projexa's and StandalonePOS's code is private. Happy to walk through either on request.
 
 ---
 
 ## 🧪 QA & Testing
 
 - **Manual testing:** test plans, test cases, bug reports, regression and UAT
-- **Automation:** Playwright end-to-end tests (Projexa runs 49 E2E tests)
+- **Automation:** Playwright end-to-end tests (Projexa runs 49 E2E tests; StandalonePOS runs 13 E2E plus 174 xUnit and Vitest tests)
 - **Unit and API testing:** pytest, Vitest and GitHub Actions CI
 
 ---
